@@ -6,6 +6,6 @@
 
 このプログラムと一緒に、GNU General Public Licenseのコピーを受け取っているはずです。受け取っていない場合は、<https://www.gnu.org/licenses/>をご覧ください。
 
-私は、プログラムの全ての著作権の権益に関して、ここに否認します。
+私は、プログラム“main.py”の全ての著作権の権益に関して、ここに否認します。
 
 ライセンスに関して：https://www.gnu.org/licenses/gpl-3.0.txt
